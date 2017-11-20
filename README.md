@@ -1,3 +1,3 @@
 # Example Swift App
 
-An example Swift application made for the BBC.
+An example Swift iPhone application made for the BBC.
